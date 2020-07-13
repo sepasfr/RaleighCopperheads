@@ -1,0 +1,275 @@
+<!doctype html>
+<html>
+<head>
+<title>
+Raleigh Copperheads
+</title>
+<style>
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: Arial;
+  background-color:#ededed;
+}
+.tablink {
+  background-color: black;
+  color: white;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 17px;
+  width: 13%;
+}
+.tablink:hover {
+  background-color: #666666;
+}
+.tabcontent {
+  color: black;
+  display: none;
+  padding: 20px 20px;
+  height: 100%;
+  background-color:#ededed;
+}
+
+#Home 
+#Sustainability
+#Sites
+#Stadium
+#Operations
+</style>
+</head>
+<body>
+<img src="Copperheads Header.png" style="display:block;margin-left:auto;margin-right:auto;width:100%;height:3cm">
+<pre>
+
+
+</pre>
+
+<div style="background-color:black;position:absolute;top:3cm;width:100%;height:5%">
+<button class="tablink" onclick="openPage('Home')" id="defaultOpen">Home</button>
+<button class="tablink" onclick="openPage('Sites')">Sites</button>
+<button class="tablink" onclick="openPage('Stadium')">Stadium</button>
+<button class="tablink" onclick="openPage('Operations')">Operations</button>
+<button class="tablink" onclick="openPage('Sustainability')">Sustainability</button>
+</div>
+
+<div id="Home" class="tabcontent" style="padding-bottom:2cm">
+  <img src="Copperheads Text.png" style="display:block;margin-left:auto;float:right;width:15%;">
+  <h1>About the Team!</h1>
+  <p>The Raleigh Copperheads is a NFL team designated in Raleigh, North Carolina. </p>
+  <p>We are the Copperheads because copperheads are found in all 100 counties of North Carolina making them a well known snake to those in North Carolina.
+  <p>Copperheads are  defensive snakes which would define our team as a very defensive team, yet ready to strike.</p>
+  <p>Our main partner is Lonovo North America which is why our stadium will be called the Lenovo Dome.
+<pre>
+
+
+
+
+
+
+</pre>
+  <h1>Our Partners<h1>
+  <img src="duke energy.png" style="display:block;margin-right:auto;float:left;width:30%;">
+  <img src="lenovo.png" style="display:block;margin-right:auto;margin-left:auto;float:left;width:36%;">
+  <img src="honeywell.png" style="display:block;margin-right:auto;float:right;width:34%;height:6cm;">
+  <img src="advance auto parts.png" style="display:block;margin-left:auto;float:left;width:25%;">
+  <img src="sonic automotive.png" style="display:block;margin-right:auto;float:left;width:25%;">
+  <img src="nucor.png" style="display:block;margin-right:auto;float:left;width:25%;">
+  <img src="bb&t.jpg" style="display:block;margin-right:auto;float:left;width:25%;">
+</div>
+
+<div id="Sites" class="tabcontent" style="padding-bottom:75cm">
+
+  <img src="site 2 zoning.png" style="display:block;float:right;width:14%">
+  <h1>Sites</h1>
+  <h3>Site 1</h3>
+  <p>This site has a nice area of land and would be put in a office mixed use zone.
+  <p>This site is next to the Epic Games HQ which then brings the idea of e-Sports into the stadium.
+  <p>The problem is that there is no place for parking and there might will be noise reports from employees and other residents.
+<hr>
+
+  <img src="site 3 zoning.png" style="display:block;float:right;width:14%">
+  <h3>Site 2</h3>
+  <p>This area we will be choosing as well is office mixed use.
+  <p>This area was chosen for it's amount of free space that can be used.
+  <p>This are has decent land however it is problematic because it is near many residential zones.
+  <p>This site is also nearby protected habitats for animals.
+<hr>
+
+<pre>
+</pre>
+  <img src="site 1 zoning.png" style="display:block;float:right;width:18%">
+  <h3>Site 3</h3>
+  <p>This site would be going over a horse track, it has plenty of space and cheap land. 
+  <p>It would not disturb many residents, and it wouldn't be disturbing residents that matter much.
+  <p>However, there are bodies of water nearby it which need to be dealt with.
+  <pre></pre><h3>Final Decisions</h3>
+
+  <p>From the sites chosen, the two best choices would be the horse track and Epic Games site. 
+  <p>Though the concept of creating a multi-use stadium for sports and e-sports and highly getting the chance of sponsorship from Epic Games since they're right there is good, noise complaints from their own employees would probably be the outcome which would make it a bad choice, but good concept.
+  <p>With the horse track site, the land we get would be cheap and easy to build on.
+  <p>The abundant amount of land helps alot for building parking and the stadium, playing it safe is probably he best bet to go with.
+<hr>
+
+ <h3>Site Emergency Services</h3>
+  <img src="site hospital.png" style="display:block;margin-right:auto;margin-left:auto;width:50%">
+  <pre></pre>
+  <img src="site fire.jpg" style="display:block;margin-right:auto;margin-left:auto;width:50%">
+  <pre></pre>
+  <img src="site police.jpg" style="display:block;margin-right:auto;margin-left:auto;width:50%">
+<hr>
+  <pre></pre>
+
+  <h3>Site Floodplains</h3>
+  <img src="site floodplain.png" style="display:block;margin-right:auto;margin-left:auto;width:50%">
+<hr>
+  <pre></pre>
+ 
+ <h3>Site Soil</h3>
+  <img src="site soil.png" style="display:block;margin-right:auto;margin-left:auto;width:50%">
+<hr>
+  <pre></pre>
+
+ <h3>Site Traffic Flow</h3>
+  <img src="Traffic.png" style="display:block;margin-right:auto;margin-left:auto;width:50%">
+
+</div>
+
+<div id="Stadium" class="tabcontent">
+
+  <img src="Stadium.gif" style="display:block;float:right;width:40%">
+ 
+ <h2>Stadium Plans</h2>
+  <p>The stadium will be made with 96 rows divided in three main sections.
+  <ul>
+  <li>39 of the rows will be dedicated to the top, these seats will cost on average 50 dollars per seat.</li>
+  <li>29 of the rows will be in the middle of the stadium, these seats will cost on average 90 dolars per seat.</li>
+  <li>28 of the rows will be in the bottom of the stadium, these seats will cost on average 210.</li>
+  <li>The cost of a suite will range from $5,000 - $30,000 depending on what suite you buy and what you include with it.
+  <li>The stadium capacity is 61,000 people, not including suites.
+  </ul>
+  <p>Seats will still cost differently depending on where the row is located such as the row right behind the players would cost 380 dollars per seat.
+  <p>There is going to be a division between the top seats and the rest of the seats from the middle down.
+  <p>That division is going to be where we will be putting 8 entrances/exits and suite rooms.
+  <p>There is also a division between the middle and bottom seats where there will only be 6 entrances/exits.
+  <p>The top will as well have entrances/exits, there are 10 for them.
+  <p>The top seats will be benches which are divided into 10 sections for walkway paths, these benches will have 34 inches of leg room starting from the back of the bench.
+  <p>The middle seats will be actual seats made with plastic, these seats will have arms rests and seat-back hooks which can be used where fans can put things like items or cups on the back of the person infront of them. These seats as well have 34 inches of leg room.
+  <p>The bottom seats will have the same design as the middle seats except instead of 34 inches of leg room they have 38 inches.
+  <p>The stadium will have 3 floors: Top floor, Middle floor, and Bottom floor.
+  <img src="entrance.png" style="display:block;float:right;width:20%">
+  <img src="middle.png" style="display:block;float:right;width:20%">
+  <p>For reasons to reduce chokepoints, the middle and top floor will only have restroom facilities, storage rooms, emergency safety equipment, and entrance/exits making them a basic decorated hallway with of course stairs and elevators to get to the bottom floor. The middle floor will also have entrances to the suites.
+  <p>The bottom floor will be the most spatious having ticket reception desks infront of the entrace, (this is used for information and direction because you buy seats from the booths outside), food court stalls, soveinir shops, and comfort objects such as benches and TVs.
+
+  <h2> Stadium Photos
+  <img src="top view.png" style="display:block;margin-right:auto;margin-left:auto;width:30%">
+  <pre></pre>
+  <img src="stadium look.gif" style="display:block;margin-right:auto;margin-left:auto;width:50%">
+  <pre></pre>
+  <img src="bottom row view.png" style="display:block;margin-right:auto;margin-left:auto;width:50%">
+  <pre></pre>
+
+
+</div>
+
+<div id="Operations" class="tabcontent">
+
+  <h1>Operations</h1>
+  <h3>Normal Menu</h3>
+  <img src="Menu.png" style="display:block;margin-right:auto;margin-left:auto;width:50%">
+  <pre></pre>
+<hr>
+  <h3>Luxury Menu</h3>
+  <img src="suite menu.jpg" style="display:block;margin-right:auto;margin-left:auto;width:50%">
+  <pre></pre>
+  
+  <h3>Home Uniform</h3>
+  <img src="Home (1).png" style="display:block;margin-right:auto;margin-left:auto;float:left;width:50%;height:25cm">
+  <pre></pre>
+  <img src="Pants Home (1).png" style="display:block;margin-right:auto;margin-left:auto;float:left;width:50%;height:25cm">
+  <pre></pre>
+<hr>
+  <h3>Away Uniform</h3>
+  <img src="Away (1).png" style="display:block;margin-right:auto;margin-left:auto;float:left;width:50%;height:25cm">
+  <pre></pre>
+  <img src="Pants Away (1).png" style="display:block;margin-right:auto;margin-left:auto;float:left;width:50%;height:25cm">
+  <pre></pre>
+<hr>
+  <h3>Alternate Uniform</h3>
+  <img src="Alternate (1).png" style="display:block;margin-right:auto;margin-left:auto;float:left;width:50%;height:25cm">
+  <pre></pre>
+  <img src="Pants Alternate (1).png" style="display:block;margin-right:auto;margin-left:auto;float:left;width:50%;height:25cm">
+  <pre></pre>
+<hr>
+  <h3>Helmet</h3>
+  <img src="Helmet (1).png" style="display:block;margin-right:auto;margin-left:auto;width:50%">
+
+</div>
+
+<div id="Sustainability" class="tabcontent">
+  <img src="lake raleigh.png" style="display:block;float:right;width:15%">
+  <h2>Sustainability Plan</h2>
+  <p>The bodies of water inside the site will be easily moved by draining the lake, transporting to Lake Raleigh which is nearby, and refilling the hole with soil.
+  <p>We can use the trees already planted around the area and keep some of them around the parking lot for scenery. 
+  <p>While transporting the water, we can also remove the trees and transport them at the same time and replant them around Lake Raleigh and Lake Johnson.
+  <p>No endangered animals or protected areas are nearby our site and can be affected.
+  <pre>
+
+
+  </pre>
+  <img src="cup.png" style="display:block;float:left;width:15%">
+  <h2> Sustainability in Plastics</h2>
+  <p>The stadium will be using reusable wooden cups and biodegradable cups.
+  <p>The wooden cups would be a fine smooth wood with a rubber rim that are able to be reused because there will be another compartment specifically for those cups on recycling cans.
+  <p>We wil also have some biodegradable cups as an alternative to the wooden cups.
+  <p>Every trash can is located at the end of a walkway with a recycling can next to it.
+  <pre>
+
+
+
+
+
+  </pre>
+  <img src="Water Pump.png" style="display:block;float:left;width:15%">
+  <h2>Sustainability in Water</h2>
+  <p>The stadium will have a grey water system.
+  <p>The used sink water will go into the water storage tank, once that water is needed, it will go to the toilet so it will be reused.
+  <p>After toilet water is used it goes straight to the sewage because it is black water now.
+  <pre>
+
+
+
+
+
+
+
+  </pre>
+  <img src="Rushers Car Park.jpg" style="display:block;float:right;width:15%">
+  <h2>Sustainability in Green Building</h2>
+  <p>For some of our parking, we will have solar charging stations for cars.
+  <p>In order to use it, you will have to pay for the parking like any other parking. 
+</div>
+
+<script>
+function openPage(pageName,elmnt,color) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablink");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].style.backgroundColor = "";
+  }
+  document.getElementById(pageName).style.display = "block";
+  elmnt.style.backgroundColor = color;
+}
+
+document.getElementById("defaultOpen").click();
+</script>
+
+</body>
+</html>
